@@ -530,7 +530,6 @@ administration.html
 
 ```
 # OUTPUT:
-![alt text](<Screenshot 2026-05-31 232225 copy.png>)
 ![alt text](<Screenshot 2026-05-31 232225.png>)
 ![alt text](<Screenshot 2026-05-31 232244.png>)
 ![alt text](<Screenshot 2026-05-31 232303.png>)
